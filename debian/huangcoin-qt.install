@@ -1,0 +1,3 @@
+huangcoin-qt usr/bin
+debian/huangcoin-qt.desktop usr/share/applications
+debian/huangcoin-qt.protocol usr/share/kde4/services

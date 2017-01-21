@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Huangcoin
+Comment=Huangcoin P2P Cryptocurrency
+Exec=/usr/bin/huangcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/huangcoin128.png
+MimeType=x-scheme-handler/huangcoin;
+Categories=Office;
+Name[en_US]=huangcoin-qt.desktop

@@ -1,0 +1,32 @@
+Source: huangcoin
+Section: utils
+Priority: optional
+Maintainer: wdl1908 <wdlbit@linux-lovers.be>
+Build-Depends: debhelper (>= 9.0.0),
+ devscripts,
+ libqt4-dev,
+ qt4-qmake,
+ libdb++-dev,
+ libboost-system-dev,
+ libboost-filesystem-dev,
+ libboost-program-options-dev,
+ libboost-thread-dev,
+ libboost-test-dev,
+ libssl-dev,
+ libminiupnpc-dev,
+ libqrencode-dev
+Standards-Version: 0.1.2.26
+Homepage: https://huangcoin.com/
+Vcs-Git: https://github.com/HuangcoinFoundation/huangcoin.git
+
+Package: huangcoin-qt
+Architecture: any-amd64 any-i386 any-arm
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Huangcoin wallet GUI
+ Peer-to-Peer cryptocurrency with Proof-of-Stake.
+
+Package: huangcoind
+Architecture: any-amd64 any-i386 any-arm
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Huangcoin daemon
+ Peer-to-Peer cryptocurrency with Proof-of-Stake.
