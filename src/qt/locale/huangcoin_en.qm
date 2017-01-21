@@ -1540,7 +1540,7 @@ This label turns red if the priority is smaller than &quot;medium&quot;.
         <location line="-150"/>
         <location line="+119"/>
         <location line="+38"/>
-        <source>XPY</source>
+        <source>HNC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1616,12 +1616,12 @@ This label turns red if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-6"/>
-        <source>The fee of the transaction (%1 XPY) is smaller than the expected fee (%2 XPY). Do you want to send the transaction anyway?</source>
+        <source>The fee of the transaction (%1 HNC) is smaller than the expected fee (%2 HNC). Do you want to send the transaction anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>The fee of the transaction (%1 XPY) is bigger than the expected fee (%2 XPY). Do you want to send the transaction anyway?</source>
+        <source>The fee of the transaction (%1 HNC) is bigger than the expected fee (%2 HNC). Do you want to send the transaction anyway?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1818,7 +1818,7 @@ This label turns red if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+35"/>
-        <source>XPY</source>
+        <source>HNC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

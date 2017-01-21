@@ -805,8 +805,8 @@ Address: %4
         <translation>/ 1</translation>
     </message>
     <message>
-        <source>XPY</source>
-        <translation>XPY</translation>
+        <source>HNC</source>
+        <translation>HNC</translation>
     </message>
     <message>
         <source>Fee:</source>
@@ -912,8 +912,8 @@ Address: %4
         <translation>Количество:</translation>
     </message>
     <message>
-        <source>XPY</source>
-        <translation>XPY</translation>
+        <source>HNC</source>
+        <translation>HNC</translation>
     </message>
     <message>
         <source>Label:</source>

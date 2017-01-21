@@ -105,7 +105,7 @@
              <string>Your current spendable balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 XPY</string>
+             <string notr="true">0 HNC</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -134,7 +134,7 @@
              <string>Your current stake</string>
             </property>
             <property name="text">
-             <string notr="true">0 XPY</string>
+             <string notr="true">0 HNC</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -164,7 +164,7 @@
              <string>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 XPY</string>
+             <string notr="true">0 HNC</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -193,7 +193,7 @@
              <string>Your current total balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 XPY</string>
+             <string notr="true">0 HNC</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>

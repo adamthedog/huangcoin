@@ -920,8 +920,8 @@ Adresse: %4
         <translation>123.456</translation>
     </message>
     <message>
-        <source>XPY</source>
-        <translation>XPY</translation>
+        <source>HNC</source>
+        <translation>HNC</translation>
     </message>
     <message>
         <source>Fee:</source>
@@ -1035,8 +1035,8 @@ Adresse: %4
         <translation>Beløp:</translation>
     </message>
     <message>
-        <source>XPY</source>
-        <translation>XPY</translation>
+        <source>HNC</source>
+        <translation>HNC</translation>
     </message>
     <message>
         <source>Label:</source>

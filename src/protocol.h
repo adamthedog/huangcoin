@@ -15,7 +15,7 @@
 #include <string>
 #include "uint256.h"
 
-#define PAYCOIN_PORT  8998
+#define HUANGCOIN_PORT  8998
 #define RPC_PORT     8999
 #define TESTNET_PORT 9000
 #define TESTNET_RPC_PORT 9001
@@ -26,7 +26,7 @@ void GetMessageStart(unsigned char pchMessageStart[]);
 
 static inline unsigned short GetDefaultPort(const bool testnet = fTestNet)
 {
-    return testnet ? TESTNET_PORT : PAYCOIN_PORT;
+    return testnet ? TESTNET_PORT : HUANGCOIN_PORT;
 }
 
 

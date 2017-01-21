@@ -14,7 +14,7 @@ Huangcoin is a Huangcoin network-compatible, community-developed wallet client.
 
 The project has been designed to provide people with a
 stable, secure, and feature-rich alternative to the Huangcoin reference
-wallet (https://github.com/ender-scythe/paycoin).
+wallet (https://github.com/adamthedog/huangcoin/).
 
 To help faciliate broad community cooperation, a number of trusted
 Huangcoin/Peershares community leaders have write permissions to the project's
@@ -38,13 +38,13 @@ Huangcoin source code: https://github.com/Huangcoin/Huangcoin
 
 For the most current instructions covering how to compile Huangcoin from
 source on a variety of operating systems, please visit:
-https://github.com/Huangcoin/Huangcoin/tree/master/doc
+https://github.com/adamthedog/huangcoin/tree/master/doc
 
 Open software issues can be viewed, and new issues can be reported at:
-https://github.com/Huangcoin/Huangcoin/issues?state=open
+https://github.com/adamthedog/huangcoin/issues?state=open
 
-Huangcoin discussion forums (hosted by HuangcoinTalk.org):
-http://www.huangcointalk.org/index.php?board=64.0
+Huangcoin discussion forums (hosted by PaycoinTalk.org):
+http://www.paycointalk.org/index.php?board=64.0
 
 
 

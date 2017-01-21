@@ -1141,8 +1141,8 @@ Ceci veut dire que des frais à hauteur de %2 sont requis.</translation>
         <translation>123.456</translation>
     </message>
     <message>
-        <source>XPY</source>
-        <translation>XPY</translation>
+        <source>HNC</source>
+        <translation>HNC</translation>
     </message>
     <message>
         <source>Add input...</source>
@@ -1201,12 +1201,12 @@ Ceci veut dire que des frais à hauteur de %2 sont requis.</translation>
         <translation>Confirmez l'envoi de la transaction</translation>
     </message>
     <message>
-        <source>The fee of the transaction (%1 XPY) is smaller than the expected fee (%2 XPY). Do you want to send the transaction anyway?</source>
-        <translation>Les frais de la transaction (%1 XPY) sont plus faible que les frais attendu (%2 XPY). Voulez-vous quand même envoyer la transaction?</translation>
+        <source>The fee of the transaction (%1 HNC) is smaller than the expected fee (%2 HNC). Do you want to send the transaction anyway?</source>
+        <translation>Les frais de la transaction (%1 HNC) sont plus faible que les frais attendu (%2 HNC). Voulez-vous quand même envoyer la transaction?</translation>
     </message>
     <message>
-        <source>The fee of the transaction (%1 XPY) is bigger than the expected fee (%2 XPY). Do you want to send the transaction anyway?</source>
-        <translation>Les frais de la transaction (%1 XPY) sont plus gros que les frais attendu (%2 XPY). Voulez-vous quand même envoyer la transaction?</translation>
+        <source>The fee of the transaction (%1 HNC) is bigger than the expected fee (%2 HNC). Do you want to send the transaction anyway?</source>
+        <translation>Les frais de la transaction (%1 HNC) sont plus gros que les frais attendu (%2 HNC). Voulez-vous quand même envoyer la transaction?</translation>
     </message>
 </context>
 <context>
@@ -1360,8 +1360,8 @@ Ceci veut dire que des frais à hauteur de %2 sont requis.</translation>
         <translation>Montant :</translation>
     </message>
     <message>
-        <source>XPY</source>
-        <translation>XPY</translation>
+        <source>HNC</source>
+        <translation>HNC</translation>
     </message>
     <message>
         <source>Label:</source>
