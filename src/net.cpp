@@ -1172,13 +1172,7 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 // testnet dns seed begins with 't', all else are huangcoin dns seeds.
-static const char *strDNSSeed[][2] = {
-    {"dnsseed.huangcoin.com", "dnsseed.huangcoin.com"},
-    {"dnsseed.huangcoinfoundation.org", "dnsseed.huangcoinfoundation.org"},
-    {"dnsseed.xpydev.org", "dnsseed.xpydev.org"},
-    {"tseed.huangcoin.com", "tseed.huangcoin.com"},
-    {"testnet-seed.huangcoin.mitchellcash.com", "testnet-seed.huangcoin.mitchellcash.com"} // Mitchell Cash
-};
+static const char *strDNSSeed[][2] = {};
 
 void ThreadDNSAddressSeed(void* parg)
 {
