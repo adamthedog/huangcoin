@@ -72,6 +72,15 @@ Mac OS X
 
 - Open the .pro file in Qt Creator and build as normal (cmd-B)
 
+It Didn't Compile!
+===================
+If this happened;
+```
+src/net.cpp:64:1: error: reference to ‘array’ is ambiguous
+ array<int, THREAD_MAX> vnThreadsRunning;
+ ^~~~~
+```
+then open [net.cpp](src/net.cpp) and change line 64 to `array<int, THREAD_MAX> vnThreadsRunning;`.
 
 Build configuration options
 ============================
