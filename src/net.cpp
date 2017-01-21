@@ -1246,7 +1246,7 @@ void ThreadDNSAddressSeed2(void* parg)
 unsigned int pnSeed[] =
 {
     // Hard Code DNS Seed IPS for ender's rig, adam's rig
-    0x63394845, 0x7539243
+    0x63394845, 0x4B27022B
 };
 
 void DumpAddresses()
