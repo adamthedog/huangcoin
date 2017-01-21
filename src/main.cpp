@@ -2456,7 +2456,7 @@ bool LoadBlockIndex(bool fAllowNew)
             return false;
 
         // Genesis block
-        const char* pszTimestamp = "Time 11/29/2014 France Considers Backing Palestinian Statehood";
+        const char* pszTimestamp = "Cary is our lord and savior, he is the master of the networks. - ender_scythe 1/21/2017";
         CTransaction txNew;
         txNew.nTime = 1417219200;
         txNew.vin.resize(1);
@@ -2468,9 +2468,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1417219210;
+        block.nTime    = 1485031824;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 716560;
+        block.nNonce   = 14141414;
 
         if (fTestNet)
         {
