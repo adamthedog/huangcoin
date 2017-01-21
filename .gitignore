@@ -1,0 +1,19 @@
+src/huangcoind
+src/test_huangcoin
+
+# Ignore build dir
+build/
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+huangcoin-qt
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store

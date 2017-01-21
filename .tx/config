@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[huangcoin.qt-translation-03x]
+file_filter = src/qt/locale/huangcoin_<lang>.ts
+source_file = src/qt/locale/huangcoin_en.ts
+source_lang = en
