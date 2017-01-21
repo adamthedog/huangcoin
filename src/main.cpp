@@ -2458,7 +2458,7 @@ bool LoadBlockIndex(bool fAllowNew)
         // Genesis block
         const char* pszTimestamp = "Cary is our lord and savior, he is the master of the networks. - ender_scythe 1/21/2017";
         CTransaction txNew;
-        txNew.nTime = 1417219200;
+        txNew.nTime = 1485031824;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(9999) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2474,8 +2474,8 @@ bool LoadBlockIndex(bool fAllowNew)
 
         if (fTestNet)
         {
-            block.nTime    = 1417219210;
-            block.nNonce   = 18631020;
+            block.nTime    = 1485031824;
+            block.nNonce   = 41414141;
         }
 
         //// debug print
